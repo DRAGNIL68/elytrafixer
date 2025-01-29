@@ -1,0 +1,9 @@
+name: elytrafix
+version: '1.0'
+main: net.outmoded.elytrafix.main
+api-version: '1.21'
+commands:
+  give_custom_item:
+    description: Insert Funny Text Here
+    usage: /give_custom_item
+    permission: give_custom_item
